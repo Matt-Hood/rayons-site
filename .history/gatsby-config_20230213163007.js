@@ -11,8 +11,8 @@ module.exports = {
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.js
     siteTitle: `Hyper Anti Malware`,
-    siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
-    siteHeadline: `Cara - Gatsby Theme from @lekoarts`,
+    siteTitleAlt: `Hyper Anti Malware`,
+    siteHeadline: `Hyper Anti Malware`,
     siteUrl: `https://cara.lekoarts.de`,
     siteDescription: `Hyper Anti Malware`,
     siteImage: `/banner.jpg`,
